@@ -1,0 +1,17 @@
+Package: textReadability
+Type: Package
+Title: textReadability: a package to calculate statistics from text.
+Version: 0.1.0
+Authors@R: person("Manoj", "Kumar", email = "me@manoj.fyi", role = c("aut", "cre"))
+Maintainer: The package is maintained by <me@manoj.fyi>
+Description: It helps in computing text readability, complexity, and grade level etc.
+    To be added - some more description.
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 4.2)
+Imports:
+    stringr
+URL: https://github.com/imanojkumar/textReadability
+BugReports: https://github.com/imanojkumar/textReadability
